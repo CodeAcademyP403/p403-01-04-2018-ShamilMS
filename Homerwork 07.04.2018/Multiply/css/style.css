@@ -1,0 +1,22 @@
+*
+{
+    box-sizing: border-box;
+}
+
+body
+{
+    background: linear-gradient(to right, rgba(255,0,0,0), rgba(159, 227, 242, 0.61))
+}
+.backcolor
+{
+    background-color: #3fa530;
+    color: white;
+}
+
+
+.div
+{
+    height: 109px;
+    background-color: #b3d5ae;
+    border-radius: 7px;
+}
